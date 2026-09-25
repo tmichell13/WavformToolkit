@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WaveformToolkit.Cli")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+549f52330978ed6c775f95cd3f30f6090c1a3620")]
 [assembly: System.Reflection.AssemblyProductAttribute("WaveformToolkit.Cli")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WaveformToolkit.Cli")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

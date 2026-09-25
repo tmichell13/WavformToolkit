@@ -1,4 +1,6 @@
 <Solution>
+  <Folder Name="/docs/" />
+  <Folder Name="/samples/" />
   <Folder Name="/src/">
     <Project Path="src/WaveformToolkit.Cli/WaveformToolkit.Cli.csproj" />
     <Project Path="src/WaveformToolkit.Core/WaveformToolkit.Core.csproj" />
