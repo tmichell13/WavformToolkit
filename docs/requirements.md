@@ -29,7 +29,9 @@ the data can be analyzed.*
 - Given a header-only file → error "no data rows".
 - Given a non-numeric value → error reporting the **line number**.
 - Given a row with ≠ 2 columns → error reporting the line number.
+- Given a file with < 2 samples → error "not enough data".
 - Given non-uniform time steps (beyond tolerance) → error.
+- Given a row containing NaN, -Infinity, or Infinity → error reporting the line number.
 
 ### FR-03 Time-domain statistics (Must)
 - RMS of a constant signal c equals |c|.

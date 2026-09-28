@@ -1,5 +1,10 @@
 <Solution>
-  <Folder Name="/docs/" />
+  <Folder Name="/docs/">
+    <File Path="docs/definition-of-done.md" />
+    <File Path="docs/design.md" />
+    <File Path="docs/README.md" />
+    <File Path="docs/requirements.md" />
+  </Folder>
   <Folder Name="/samples/" />
   <Folder Name="/src/">
     <Project Path="src/WaveformToolkit.Cli/WaveformToolkit.Cli.csproj" />
